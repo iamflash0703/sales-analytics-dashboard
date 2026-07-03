@@ -71,8 +71,3 @@ This project demonstrates end-to-end data analysis skills by:
 
 ---
 
-## 🛠️ How to Run This Project Locally
-
-### Step 1: Install Dependencies
-```bash
-pip install -r requirements.txt
