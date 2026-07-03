@@ -11,10 +11,11 @@
 ## 🎯 Project Overview
 
 This project demonstrates end-to-end data analysis skills by:
-1. **Cleaning** a messy real-world sales dataset (5,000+ records)
-2. **Analyzing** the data to extract business insights
-3. **Visualizing** findings with interactive charts
-4. **Building** a live web dashboard with Streamlit
+1. **Generating** a realistic but messy sales dataset (simulating real-world data)
+2. **Cleaning** the messy dataset using Python & Pandas
+3. **Analyzing** the data to extract business insights
+4. **Visualizing** findings with interactive charts
+5. **Building** a live web dashboard with Streamlit
 
 ---
 
@@ -70,3 +71,8 @@ This project demonstrates end-to-end data analysis skills by:
 
 ---
 
+## 🛠️ How to Run This Project Locally
+
+### Step 1: Install Dependencies
+```bash
+pip install -r requirements.txt
