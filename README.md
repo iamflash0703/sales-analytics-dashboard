@@ -34,7 +34,7 @@ This project demonstrates end-to-end data analysis skills by:
 
 ## 🚀 Live Demo
 
-👉 **[Click here to view the live dashboard](YOUR_STREAMLIT_CLOUD_URL_HERE)**
+👉 **[Click here to view the live dashboard]((https://dashboardpy-aeeaipt6rzcmfgsramtmxb.streamlit.app/))**
 
 ---
 
